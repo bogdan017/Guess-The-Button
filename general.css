@@ -1,0 +1,50 @@
+.card-header {
+	text-align: center;
+	font-family: fantasy;
+	padding-top: 15px;
+	color: black;
+	background-color: bisque;
+	font-size: 36px;
+
+}
+
+.card-body {
+	background-color: grey;
+	text-align: center;
+	font-family: fantasy;
+}
+
+.btn-primary {
+	background-color: black;
+}
+
+.card {
+	background-color: azure;
+}
+
+#result, #resultN {
+	font-size: 35px;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-family: fantasy;
+	padding-top: 15px;
+	padding-left: 15px;
+	margin-bottom: auto;
+}
+
+.card-body > p {
+	color: white;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
+.container {
+	margin-top: 35px;
+}
+
+button.btn-primary {
+	text-align: center;
+}
